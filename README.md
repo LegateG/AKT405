@@ -1,6 +1,6 @@
 # Exploratory Data Analysis: Fallout: New Vegas Armor and Clothing Values
 
-This project examines the in-game armor and clothing items from *Fallout: New Vegas* to determine how their attributes influence their in-game value (in caps, $). The dataset is sourced from the [Fallout: New Vegas Fandom Wiki](https://fallout.fandom.com/wiki/Fallout:_New_Vegas_armor_and_clothing). This EDA was originally a final project for my undergraduate statistics course in 2012 using IBM SPSS, now modernized for public sharing on GitHub.
+This project examines the in-game armor and clothing items from *Fallout: New Vegas* to determine how their attributes influence their in-game value (in caps, $). The dataset is sourced from the [Fallout: New Vegas Fandom Wiki](https://fallout.fandom.com/wiki/Fallout:_New_Vegas_armor_and_clothing#Armor). This EDA was originally a final project for my undergraduate statistics course in 2012 using IBM SPSS, now modernized for public sharing on GitHub.
 
 ## Table of Contents
 
